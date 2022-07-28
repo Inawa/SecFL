@@ -1,1 +1,1 @@
-# Federated Learning Revisited: Mitigating Cross-client GANs-based Attack
+# Mitigating Cross-client GANs-based Attack in Federated Learning
